@@ -7,7 +7,6 @@
   <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api/top-langs?username=esdotzed&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
 </a>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
