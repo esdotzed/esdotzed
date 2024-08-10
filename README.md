@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am Alex Shen 👋
+
+Experienced Software Engineer with a proven track record in the internet industry. Proficient in Python, Java, Hadoop, Machine Learning, Scala, and front-end technologies such as React, React Native, and Taro. Previously worked at notable companies including VMware and eBay, as well as several startups. A dedicated and skilled professional holding a Master's degree in Computer Science from Cornell University.
+
+- 🔭 Currently working as a Full Stack Engineer.
+- 🌱 Exploring the integration of Large Language Models (LLMs) with various software engineering disciplines.
+- 👯 Passionate about exploring and contributing to open-source projects and developing innovative tools such as command-line utilities, dockerized applications, and Vercel apps.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api?username=esdotzed&show_icons=true&rank_icon=github&include_all_commits=true" />
