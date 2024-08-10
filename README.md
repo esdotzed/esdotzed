@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api?username=esdotzed" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api?username=esdotzed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api/top-langs?username=esdotzed&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
