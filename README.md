@@ -50,35 +50,11 @@ const alex = {
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api?username=esdotzed&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api?username=esdotzed&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api/top-langs?username=esdotzed&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-esdotzeds-projects.vercel.app/api/top-langs?username=esdotzed&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&hide_border=true" />
 </a>
-
-&nbsp;
-
----
-
-## 📈 Contribution Graph
-
-&nbsp;
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esdotzed&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-&nbsp;
-
----
-
-## 🐍 Contribution Snake
-
-&nbsp;
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esdotzed/esdotzed/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esdotzed/esdotzed/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/esdotzed/esdotzed/output/github-snake.svg" />
-</picture>
 
 &nbsp;
 
@@ -96,6 +72,6 @@ const alex = {
 
 ### 💡 Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)](https://github.com/piyushsuthar/github-readme-quotes)
 
 &nbsp;
